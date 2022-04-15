@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(240, 240, 240);
+}
+.light {
+    font-size: .8em !important;
+    color: rgb(134, 134, 134) !important;
+
+}
+.tranz {
+    color: rgba(0,0,0,.6);
+}
+.it {
+    font-style: italic !important;
+}
